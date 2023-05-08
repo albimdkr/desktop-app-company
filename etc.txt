@@ -1,0 +1,32 @@
+============
+Asset
+============
+- Button
+  font-size : 13px, tahoma
+  basecolor : 008a91
+  green-top     : 02c987
+  blue-bottom   : 008a91
+  H-padding : 38px
+  V-Padding : 11px
+  B-Radius  : 10px
+  b1.setIcon(new javax.swing.imageIcon(getClass().getResource("/asset/.png")));
+
+============
+Login
+============
+INSERT INTO `tblpegawai`(`kodePegawai`, `nama`, `jk`, `tglMasuk`, `alamat`, `idUser`, `idDivisi`) VALUES ('PRO29022020001','Albi Mudakar Nasyabi','Pria','2020-02-29','Kp. Bojong Reungas Desa Majalaya Kec. Majalaya Kab. Bandung','USER001','1')
+
+Admin@gmail.com
+Admin@12
+
+Produksi@gmail.com
+Produksi@13
+
+Marketing@gmail.com
+Marketing@14
+
+albi@gmail.com
+AlbiMudakar02@
+
+albi1@gmail.com
+AlbiMudakar@01
